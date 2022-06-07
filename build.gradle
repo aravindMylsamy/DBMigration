@@ -22,4 +22,6 @@ test {
 
 flyway {
     url = 'jdbc:postgresql://localhost:5432/flyway'
+    user = 'postgres'
+    password = 'root'
 }
